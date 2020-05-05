@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.16",
-  "latestVersionCode": "16",
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "latestVersionCode": "16",/** set this number to the minimum version the app is supposed to be in. If user do not have at least this version installed, they will see force update dialog.**/
+  "url": "https://play.google.com/store/apps/details?id=np.pro.dipendra.iptv",
   "releaseNotes": [
     "- First evolution",
     "- Second evolution",
